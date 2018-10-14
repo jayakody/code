@@ -1,4 +1,5 @@
 - **Getting Started**
+- [Getting Started with Python](posts/python-getting-started.md)
 - [Introduction](overview.md)
 - [Pre-requisites](pre-requisites.md)
 - [Setup](setup.md)
