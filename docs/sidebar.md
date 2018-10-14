@@ -1,15 +1,12 @@
 - **Getting Started**
 - [Getting Started with Python](posts/python-getting-started.md)
-- [Introduction](overview.md)
-- [Pre-requisites](pre-requisites.md)
-- [Setup](setup.md)
-- [How to use](how-to-use.md)
+- [Getting Started with Ansible](posts/ansible-getting-started.md)
 - [FAQ](faq.md)
 - [Feedback](feedback.md)
 
 
 - **Python**
-- [Intro to Python](samples/intro.md)
+- [Basic Examples](posts/python-basic-examples.md)
 - [Setup your environment](samples/setup.md)
 
 
