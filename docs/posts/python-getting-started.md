@@ -1,10 +1,4 @@
----
-date: 2018-06-01
-title: Getting Started with Python
-categories:
-  - Python
-description: "Getting Started with Python"
-type: Document
+# Getting Startred with Python
 ---
 
 ## Setup in Ubuntu
