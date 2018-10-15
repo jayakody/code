@@ -7,6 +7,7 @@
 
 - **Python**
 - [Basic Examples](posts/python-basic-examples.md)
+- [Copy Membership Rules](posts/python-copyMembershipRules.md)
 - [Setup your environment](samples/setup.md)
 
 
