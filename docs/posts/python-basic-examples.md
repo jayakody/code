@@ -25,29 +25,35 @@ cookie = ""
 
 def controller_request(method, path, data=""):
     if not controller_ip:
-        print 'You must set controller_ip to the IP address of your BCF controller'
+        print 'You must set controller_ip to the IP of your BCF controller'
     controller_url = "https://%s:8443" % controller_ip
-    # append path to the controller url, e.g. "https://192.168.23.98:8443" + "/api/v1/auth/login"
+
+    # Append path to the controller url
+    # e.g. "https://192.168.23.98:8443" + "/api/v1/auth/login"
     url = controller_url + path
-    # if a cookie exists then use it in the header, otherwise create a header without a cookie
+
+    # If a cookie exists then use it in the header, otherwise create a header 
+    # without a cookie
     if cookie:
         session_cookie = 'session_cookie=%s' % cookie
         headers = {"content-type": "application/json", 'Cookie': session_cookie}
     else:
         headers = {"content-type": "application/json"}
-    # submit the request
+    
+    # Submit the request
     response = requests.request(method, url, data=data, headers=headers, verify=False)
-    # if content exists then return it, otherwise return the HTTP status code
+
+    # If content exists then return it, otherwise return the HTTP status code
     if response.content:
         return json.loads(response.content)
     else:
         return response.status_code
 ```
-~~~
+
 
 ## Step 2: Authenticating with the Big Cloud Fabric
 
-Using the `response.status_code` returned by the previous step folloing function will authenticate with the Big Cloud Fabric
+Using the `response.status_code` returned by the previous step following function will authenticate with the Big Cloud Fabric
 
 ```python
 def authentication():
