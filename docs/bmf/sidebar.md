@@ -1,16 +1,14 @@
 - **Getting Started**
-- [Getting Started with Python](bcf/python-getting-started.md)
-- [Getting Started with Ansible](bcf/ansible-getting-started.md)
+- [Getting Started with Python](common/python-getting-started.md)
+- [Getting Started with Ansible](common/ansible-getting-started.md)
 - [FAQ](faq.md)
 - [Feedback](feedback.md)
 
 
 - **Python**
-- [Basic Examples](bcf/python-basic-examples.md)
-- [Copy Membership Rules](bcf/python-copyMembershipRules.md)
-- [Test](posts/test.md)
+- [Basic Examples](bmf/python-basic-examples.md)
 
 
 - **Ansible**
-- [Ansible Introduction](bcf/ansible-getting-started.md)
+- [Ansible Introduction](bmf/ansible-getting-started.md)
 
