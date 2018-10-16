@@ -1,8 +1,8 @@
 - **Getting Started**
-- [Getting Started with Python](bcf/python-getting-started.md)
-- [Getting Started with Ansible](bcf/ansible-getting-started.md)
-- [FAQ](faq.md)
-- [Feedback](feedback.md)
+- [Getting Started with Python](common/python-getting-started.md)
+- [Getting Started with Ansible](common/ansible-getting-started.md)
+- [FAQ](common/faq.md)
+- [Feedback](common/feedback.md)
 
 
 - **Python**
