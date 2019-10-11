@@ -5,6 +5,7 @@
 * Automation Examples for Big Switch products.
 * Provides you resources to get started with coding for Big Switch Products.
 
-[Big Cloud Fabric](bcf/overview.md)
-[Big Monitoring Fabric](bmf/overview.md)
-[BSNLabs](https://labs.bigswitch.com)
+[Python](python/overview.md)
+[Ansible](ansible/overview.md)
+[Terraform](https://labs.bigswitch.com)
+[Try it out Live](https://labs.bigswitch.com)
