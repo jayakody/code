@@ -6,4 +6,4 @@
 
 [![License: Apache2](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)](https://github.com/bigswitch)
 
-Big Cloud Fabric Automation Examples Test
+Big Cloud Fabric Automation Examples Test sidebar
