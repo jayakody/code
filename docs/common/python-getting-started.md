@@ -17,6 +17,8 @@ pip 8.1.1 from /usr/lib/python2.7/dist-packages (python 2.7)
 ~~~ bash
 # Install pip
 ~ $ yum -y install python-pip
+You may have to enable repositories if above command doesn't work:
+~ $ yum --enablerepo=extras install epel-release
 
 # Verify pip
 ~ $ pip -V
