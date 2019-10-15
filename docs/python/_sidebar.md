@@ -1,16 +1,20 @@
+ ******
+***Automation***
+- [HOME](coverpage.md)
+ ******
+
 - **Getting Started With Python**
 - [Getting Started with Python](common/python-getting-started.md)
-- [Getting Started with Ansible](common/ansible-getting-started.md)
 - [FAQ](common/faq.md)
 - [Feedback](common/feedback.md)
 
+ ******
+***Big Cloud Fabric***
+ ******
+- **Automating with Python**
+- [Basic Examples](python/bcf/python-basic-examples.md)
+- [Copy Membership Rules](python/bcf/python-copyMembershipRules.md)
 
-- **Python**
-- [Basic Examples](bcf/python-basic-examples.md)
-- [Copy Membership Rules](bcf/python-copyMembershipRules.md)
-- [Test](posts/test.md)
 
 
-- **Ansible**
-- [Ansible Introduction](bcf/ansible-getting-started.md)
 

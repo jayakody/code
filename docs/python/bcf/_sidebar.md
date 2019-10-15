@@ -1,16 +1,8 @@
-- **Getting Started**
-- [Getting Started with Python](common/python-getting-started.md)
-- [FAQ](common/faq.md)
-- [Feedback](common/feedback.md)
+ ******
+**BIG CLOUD FABRIC** 
+- [HOME](python/overview.md)
+ ******
 
-
-- **Python Examples**
-- [Basic Examples](bcf/python-basic-examples.md)
-- [Copy Membership Rules](bcf/python-copyMembershipRules.md)
-- [Test](posts/test.md)
-
-
-- **BCF Python API**
-- [Basic Examples](bcf/python-basic-examples.md)
-- [Copy Membership Rules](bcf/python-copyMembershipRules.md)
-- [Test](posts/test.md)
+- **Automating with Python**
+- [Basic Examples](python/bcf/python-basic-examples.md)
+- [Copy Membership Rules](python/bcf/python-copyMembershipRules.md)
