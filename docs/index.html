@@ -1,69 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="google-site-verification" content="1111111" />
-  <!-- info -->
-  <title>code.bigswitch.com</title>
-  <meta property="og:title" content="code.bigswitch.com">
-  <meta property="og:description" content="Big Switch Automation Repository">
-
-  <!-- meta -->
   <meta charset="UTF-8">
+  <title>Style Dictionary - Style once, use everywhere. A build system for creating cross-platform styles.</title>
+  <link rel="icon" href="assets/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Style once, use everywhere. A build system for creating cross-platform styles.">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  
-  <!-- Theme: Defaults -->
-  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css">
-  <!-- Custom stylesheet -->
-  <link rel="stylesheet" href="assets/css/stylesheet.css">
-  <!-- Custom plugins -->
-  <script src="assets/js/plugins.js"></script>
-  <!-- Global Site Tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-126454318-1');
-  </script>
-  <!-- Page favicons -->
-  <link rel="icon" href="https://www.bigswitch.com/sites/default/files/favicon1.ico" sizes="32x32" />
-  <link rel="icon" href="https://www.bigswitch.com/sites/default/files/favicon1.ico" sizes="192x192" />
+  <link rel="stylesheet" href="//unpkg.com/docsify@4.8.0/lib/themes/vue.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500|Source+Sans+Pro:400,400i,600" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
   <div id="app"></div>
+  <img src="https://d15d9sd7a1ej2f.cloudfront.net/i" style="opacity: 0;" />
   <script>
     window.$docsify = {
-      name: 'Big Cloud Fabric Automation Examples',
-      repo: 'https://github.com/bigswitch/automation/',
-      themeColor: '#1e90ff',
-      homepage: 'overview.md',
-      coverpage: 'coverpage.md',
+      name: '<img src="assets/logo.png" data-origin="assets/logo.png" alt="Style Dictionary logo" class="sidebar-logo">Style Dictionary',
       loadSidebar: true,
+      coverpage: true,
       auto2top: true,
-      subMaxLevel: 5,
-      search: 'auto',
+      autoHeader: false,
+      subMaxLevel: 3,
+      maxLevel: 4,
+      repo: 'https://github.com/amzn/style-dictionary',
       search: {
-        placeholder: 'Type to search',
-        noData: 'No Results Found!',
-        depth: 1
-      },
-      plugins: [
-        pageLinks,
-        pageNav,
-      ]
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results.',
+      }
     }
   </script>
-  <!-- Load external plugins -->
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="https://unpkg.com/docsify-themeable"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//unpkg.com/docsify-copy-code"></script>
-  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-rest.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
+  <script src="//unpkg.com/docsify@4.8.0/lib/docsify.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-scss.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-objectivec.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
