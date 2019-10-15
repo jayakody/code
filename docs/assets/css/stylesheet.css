@@ -117,7 +117,7 @@
 
 
     /* Sidebar */
-    --sidebar-width                                     : 20rem;
+    --sidebar-width                                     : 70rem;
     --sidebar-background                                : var(--theme-color);
     --sidebar-border-color                              : #c9d2b6;
     --sidebar-border-width                              : 0 1px 0 0;
@@ -128,7 +128,7 @@
     --sidebar-name-font-size                            : 22px;
 
     /* Nav Headings */
-    --sidebar-nav-strong-color                          :rgb(206, 13, 13);
+    --sidebar-nav-strong-color                          :white;
     --sidebar-nav-strong-border-width                   : 0 0 1px 0;
     --sidebar-nav-strong-font-size                      : medium;
     --sidebar-nav-strong-font-weight                    : 500;
