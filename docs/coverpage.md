@@ -2,8 +2,8 @@
 
 ## code.bigswitch.com
 
-* Automation Examples for Big Switch products.
-* Provides you resources to get started with coding for Big Switch Products.
+* Automation repository Big Switch
+* Provides resources to get started with automation
 
 [Python](python/overview.md)
 [Ansible](ansible/overview.md)
