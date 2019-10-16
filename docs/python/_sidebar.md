@@ -1,8 +1,8 @@
-***Automation***
+**Automation**
 - [HOME](coverpage.md)
  ******
 
-- ***Getting Started With Python***
+- **Getting Started With Python**
 - [Getting Started with Python](common/python-getting-started.md)
 - [FAQ](common/faq.md)
 - [Feedback](common/feedback.md)
