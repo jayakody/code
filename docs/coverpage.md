@@ -7,5 +7,5 @@
 
 [Python](python/overview.md)
 [Ansible](ansible/overview.md)
-[Terraform](https://labs.bigswitch.com)
+[Terraform](terraform/overview.md)
 [Try it out Live](https://labs.bigswitch.com)
