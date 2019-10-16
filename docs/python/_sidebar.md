@@ -1,6 +1,5 @@
-**Automation**
+- **TestAutomation**
 - [HOME](coverpage.md)
- ******
 
 - **Getting Started With Python**
 - [Getting Started with Python](common/python-getting-started.md)
