@@ -1,6 +1,6 @@
 ![](assets/images/bigswitch.png)
 
-## code.bigswitch.com
+# code.bigswitch.com
 
 * Automation repository Big Switch
 * Provides resources to get started with automation
