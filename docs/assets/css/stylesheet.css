@@ -117,7 +117,7 @@
 
 
     /* Sidebar */
-    --sidebar-width                                     : 70rem;
+    --sidebar-width                                     : 20rem;
     --sidebar-background                                : var(--theme-color);
     --sidebar-border-color                              : #c9d2b6;
     --sidebar-border-width                              : 0 1px 0 0;
