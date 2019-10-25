@@ -34,13 +34,9 @@ bash-3.2$
 ### Other Usage Examples
 
 ```bash
-
 $ python copyMembershipRules.py --c 10.10.1.1 --u admin --p password --src-switch R1L1 --src-int ethernet1 --dest-ig interfaceGroup1
-
 $ python copyMembershipRules.py --c 10.10.1.1 --u admin --p password --src-ig interfaceGroup1 --dest-switch R2L1 --dest-int ethernet3 
-
 $ python copyMembershipRules.py --c 10.10.1.1 --u admin --p password --src-ig interfaceGroup1 --dest-ig interfaceGroup2
-
 ```
 
 ## Code Block
