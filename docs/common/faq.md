@@ -4,6 +4,7 @@
 It's completely up to you. We've given three very popular options here
 #### Getting Started with Python
 ```python
+
 yum install python
 ```
 #### Starting with Ansible
