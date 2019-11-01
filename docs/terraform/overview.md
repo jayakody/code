@@ -8,5 +8,5 @@
 
 Big Cloud Fabric: Infrastructure as Code with Terraform
 - [Getting Started with Terraform](terraform/terraform-getting-started.md)
-- [Basic Examples](python/bcf/python-basic-examples.md)
-- [Copy Membership Rules](python/bcf/python-copyMembershipRules.md)
+- [EVPC Examples](terraform/bcf/evpc-examples.md)
+- [Fabric Examples](terraform/bcf/fabric-examples.md)
