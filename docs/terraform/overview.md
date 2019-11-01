@@ -1,12 +1,12 @@
-# Automation with Big Cloud Fabric
+# Big Cloud Fabric Terraform Automation
 
 ![](assets/images/bigswitch.png)
 
 ---
 
-[![License: Apache2](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)](https://github.com/bigswitch)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/bigswitch/automation)
 
-Big Cloud Fabric Automation Examples for Python
-
+Big Cloud Fabric Automating with Terraform
+- [Getting Started with Terraform](terraform/terraform-getting-started.md)
 - [Basic Examples](python/bcf/python-basic-examples.md)
 - [Copy Membership Rules](python/bcf/python-copyMembershipRules.md)
