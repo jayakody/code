@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/bigswitch/automation)
 
-Big Cloud Fabric Automating with Terraform
+Big Cloud Fabric: Infrastructure as Code with Terraform
 - [Getting Started with Terraform](terraform/terraform-getting-started.md)
 - [Basic Examples](python/bcf/python-basic-examples.md)
 - [Copy Membership Rules](python/bcf/python-copyMembershipRules.md)
