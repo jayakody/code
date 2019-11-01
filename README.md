@@ -18,4 +18,4 @@ Send your comments and feedback to: [labs@bigswitch.com](mailto:labs@bigswitch.c
 
 ## License
 
-Apache 2.0
+MIT
