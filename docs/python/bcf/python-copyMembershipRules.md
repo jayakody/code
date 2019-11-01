@@ -3,8 +3,8 @@
 ---
 
 ## Introduction
-
-This code will copy membership rules from one interface (or interface-group) to another interface (or interface-group)
+Use Case: Replicate membership rules in a given port(s) to another port(s)
+Exact Behavior: This code will copy membership rules from one interface (or interface-group) to another interface (or interface-group)
 
 ## Usage
 
